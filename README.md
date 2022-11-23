@@ -1,20 +1,28 @@
 # site-ibm
 
-Público-alvo dos usuários do seu site
+Este site é um projeto para fins escolares da Etec/Ptech do primeiro ano,para a apresentação na Feira Tecnologia e para a IBM,com o objetivo de melhorar o desenvolvimento e aperfeiçoamento do curso dos alunos(as) de Desenvolvimento de Sistemas.
 
--Publico alvo sãos veganos e pessoas vulneráveis
+Tecnologias ultilizadas: Para a programação do site utilizamos HTML,Css e Java Script no Visual Studio Code (VScode).
 
-Qual o objetivo do seu site?
+Link gitpages:
+Link do site online:
+Link dos Wireframes: https://www.canva.com/design/DAFOsdo1Zck/OIeukCV5uK9rRrYqkg_M2w/edit?utm_content=DAFOsdo1Zck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
--Nosso objetivo é ajudar tanto as pessoas que são veganas e vegetarianas, 
-que estão a procura de menus diferenciados para suas refeições, também incluirá um sitema que ajudará pessoa vulneráveis com sobras de comida que 
-restará no dia.
-Também visa ajuda o meio ambiente.
 
-Por quê o seu usuário vai usar o seu site?
+-	Perguntas Sobre o Site 
 
--Nossos usuários vão usar o nosso site pois o nosso trabalho terá comidas 100% veganas e vegetarianas, de qualidade e confiança, e com menus diferenciados. E támbem irá ajudar a ter mais visibilade para o nosso projeto comunitário, e assim ajudar mais pessoas vulneráveis. 
+Público Alvo : O público Alvo de NATURALLE é a comunidade vegana e vegetaria, porém qualquer outra pessoa que não faça parte dessas comunidades podem participar e frequentá-la ,pois NATURALLE é um restaurante para todos.
 
-Quais sites semelhantes existem que seu usuário poderia usar? Por quê ele usaria o seu?
+Objetivo do site: O objetivo do nosso site  é tornar o acesso ao nosso restaurante mais fácil,tornando o mais tecnológico.
 
--Existem vários restaurantes veganos e vegetarianos, mas nunca vi um restaurante com essa ideia de ajudar outras pessoas desfavorecidas. Porque nosso projeto e ideia é único e porque os usuários sairão satisfeitos se alimentando com comida de qualidade e ajudará outras pessoas.
+Em nosso site o usuário poderá conhecer a nossa história,conhecer os pratos,fazer a compra e pedir por delivery,entre outras diversas coisas …
+
+Por que o usuário ultilizará o meu site:
+
+O nosso site torna a vida das pessoas mais fácil e prática,pois o usuário poderá fazer tudo que faz presencialmente online facilitando a comunicação e acesso ao site.
+ Além disso o nosso site e restaurante preza pelo bem estar do cliente e tem como objetivo fazer com que as dores e todas as situações ruins envolvendo restaurantes , atendimento e alimentação sejam anuladas.
+
+
+Agradecimentos :  Agradecemos por terem visualizado o site,e por quererem saber mais sobre ele.
+   Esperamos que tenham gostado,Muito obrigada pela atenção ❤️❤️❤️
+
