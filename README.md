@@ -21,6 +21,10 @@ Por que o usuário ultilizará o meu site:
 
 O nosso site torna a vida das pessoas mais fácil e prática,pois o usuário poderá fazer tudo que faz presencialmente online facilitando a comunicação e acesso ao site.
  Além disso o nosso site e restaurante preza pelo bem estar do cliente e tem como objetivo fazer com que as dores e todas as situações ruins envolvendo restaurantes , atendimento e alimentação sejam anuladas.
+ 
+ Quais sites semelhantes existem que seu usuário poderia usar? Por quê ele usaria o seu?
+
+Sites semelhantes ao nosso: "https://www.beleaf.com.br/"= vende comida vegana, já o "https://gastromotiva.org/" é um restaurante ONG, onde nós nos baseamos para fazer o conceito Naturalle Por quê ele usaria o seu? Porque o nosso site além de ter uma ótima funcionalidade e cardápio com 100% DE QUALIDADE
 
 
 Agradecimentos :  Agradecemos por terem visualizado o site,e por quererem saber mais sobre ele.
